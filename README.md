@@ -16,4 +16,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/boopathi-7546/Leetcode_7546/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/boopathi-7546/Leetcode_7546/tree/main/0412-fizz-buzz/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/boopathi-7546/Leetcode_7546/tree/main/0412-fizz-buzz/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/boopathi-7546/Leetcode_7546/tree/main/0412-fizz-buzz/) | Easy |
 <!---LeetCode Topics End-->
