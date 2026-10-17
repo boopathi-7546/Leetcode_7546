@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/boopathi-7546/Leetcode_7546/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/boopathi-7546/Leetcode_7546/tree/main/0169-majority-element/) | Easy |
+| [0179-largest-number](https://github.com/boopathi-7546/Leetcode_7546/tree/main/0179-largest-number/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/boopathi-7546/Leetcode_7546/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/boopathi-7546/Leetcode_7546/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/boopathi-7546/Leetcode_7546/tree/main/1929-concatenation-of-array/) | Easy |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0179-largest-number](https://github.com/boopathi-7546/Leetcode_7546/tree/main/0179-largest-number/) | Medium |
 | [0412-fizz-buzz](https://github.com/boopathi-7546/Leetcode_7546/tree/main/0412-fizz-buzz/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -45,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/boopathi-7546/Leetcode_7546/tree/main/0169-majority-element/) | Easy |
+| [0179-largest-number](https://github.com/boopathi-7546/Leetcode_7546/tree/main/0179-largest-number/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,4 +56,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/boopathi-7546/Leetcode_7546/tree/main/0169-majority-element/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0179-largest-number](https://github.com/boopathi-7546/Leetcode_7546/tree/main/0179-largest-number/) | Medium |
 <!---LeetCode Topics End-->
