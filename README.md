@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/boopathi-7546/Leetcode_7546/tree/main/0412-fizz-buzz/) | Easy |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/boopathi-7546/Leetcode_7546/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/boopathi-7546/Leetcode_7546/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [2235-add-two-integers](https://github.com/boopathi-7546/Leetcode_7546/tree/main/2235-add-two-integers/) | Easy |
 ## String
