@@ -8,7 +8,6 @@ class Solution {
         }
         return result;
     }
-
     public boolean getCount(int num){
         int count = 0;
         while(num != 0){
