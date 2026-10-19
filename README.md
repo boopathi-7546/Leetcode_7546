@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/boopathi-7546/Leetcode_7546/tree/main/0009-palindrome-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/boopathi-7546/Leetcode_7546/tree/main/0412-fizz-buzz/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/boopathi-7546/Leetcode_7546/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/boopathi-7546/Leetcode_7546/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
