@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/boopathi-7546/Leetcode_7546/tree/main/0179-largest-number/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/boopathi-7546/Leetcode_7546/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/boopathi-7546/Leetcode_7546/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/boopathi-7546/Leetcode_7546/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/boopathi-7546/Leetcode_7546/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/boopathi-7546/Leetcode_7546/tree/main/1929-concatenation-of-array/) | Easy |
 ## Hash Table
@@ -63,4 +64,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0179-largest-number](https://github.com/boopathi-7546/Leetcode_7546/tree/main/0179-largest-number/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1672-richest-customer-wealth](https://github.com/boopathi-7546/Leetcode_7546/tree/main/1672-richest-customer-wealth/) | Easy |
 <!---LeetCode Topics End-->
