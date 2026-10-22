@@ -14,11 +14,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1672-richest-customer-wealth](https://github.com/boopathi-7546/Leetcode_7546/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/boopathi-7546/Leetcode_7546/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/boopathi-7546/Leetcode_7546/tree/main/1929-concatenation-of-array/) | Easy |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/boopathi-7546/Leetcode_7546/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/boopathi-7546/Leetcode_7546/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/boopathi-7546/Leetcode_7546/tree/main/0169-majority-element/) | Easy |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/boopathi-7546/Leetcode_7546/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/boopathi-7546/Leetcode_7546/tree/main/0169-majority-element/) | Easy |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/boopathi-7546/Leetcode_7546/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
