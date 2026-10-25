@@ -1,3 +1,4 @@
+// NOT SUITABLE FOR ARRAY CONSISTING MANY ELEMENTS, ONLY FOR SMALL ARRAYS!!
 class Solution {
     public boolean containsDuplicate(int[] nums) {
         boolean op=false;
