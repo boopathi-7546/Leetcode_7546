@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/boopathi-7546/Leetcode_7546/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/boopathi-7546/Leetcode_7546/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/boopathi-7546/Leetcode_7546/tree/main/0217-contains-duplicate/) | Easy |
+| [0283-move-zeroes](https://github.com/boopathi-7546/Leetcode_7546/tree/main/0283-move-zeroes/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/boopathi-7546/Leetcode_7546/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/boopathi-7546/Leetcode_7546/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/boopathi-7546/Leetcode_7546/tree/main/1470-shuffle-the-array/) | Easy |
@@ -80,4 +81,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/boopathi-7546/Leetcode_7546/tree/main/1672-richest-customer-wealth/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0283-move-zeroes](https://github.com/boopathi-7546/Leetcode_7546/tree/main/0283-move-zeroes/) | Easy |
 <!---LeetCode Topics End-->
