@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/boopathi-7546/Leetcode_7546/tree/main/0001-two-sum/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/boopathi-7546/Leetcode_7546/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/boopathi-7546/Leetcode_7546/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/boopathi-7546/Leetcode_7546/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/boopathi-7546/Leetcode_7546/tree/main/0217-contains-duplicate/) | Easy |
@@ -84,5 +85,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/boopathi-7546/Leetcode_7546/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/boopathi-7546/Leetcode_7546/tree/main/0283-move-zeroes/) | Easy |
 <!---LeetCode Topics End-->
